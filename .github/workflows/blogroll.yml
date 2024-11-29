@@ -47,6 +47,6 @@ jobs:
       run: go run rsscombine.go > feed.xml
     
     - name: Publish to neocities
-      run: curl -F "feed.xml=@feed.xml" "https://${{  secrets.NEOCITIES_USERNAME  }}:{{  secrets.NEOCITIES_PASSWORD  }}@neocities.org/api/upload"
+      run: curl -F "feed.xml=@feed.xml" "https://${{  secrets.NEOCITIES_USERNAME  }}:${{  secrets.NEOCITIES_PASSWORD  }}@neocities.org/api/upload"
       
     - uses: gautamkrishnar/keepalive-workflow@v1      
