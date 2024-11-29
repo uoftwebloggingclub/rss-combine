@@ -1,0 +1,2 @@
+https://farazkaleemmalik.cyou/feed.xml
+https://neocities.org/site/balderdasch.rss
