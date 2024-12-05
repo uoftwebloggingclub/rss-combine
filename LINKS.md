@@ -1,2 +1,3 @@
 - https://farazkaleemmalik.cyou/feed.xml
 - https://neocities.org/site/balderdasch.rss
+- https://uoftwebloggingclub.neocities.org/announcements.atom
