@@ -43,6 +43,7 @@ jobs:
         path: site
 
     - name: Run
+      working-directory: ./rsscombine
       env:
         RSSCOMBINE_TITLE: "UofT Weblogging Club RSS Feed"        
         RSSCOMBINE_DESCRIPTION: "An RSS aggregation of all feeds for members' websites for the UofT Weblogging club"
@@ -51,7 +52,7 @@ jobs:
         RSSCOMBINE_FEED_LIMIT_PER_FEED: 10
         RSSCOMBINE_FEED_URLS: "https://raw.githubusercontent.com/uoftwebloggingclub/rsscombine/refs/heads/master/LINKS.md"
         RSSCOMBINE_LINK: "https://uoftwebloggingclub.neocities.org/"
-      run: go run ./rss-combine/rsscombine.go > ./site/feed.xml
+      run: go run rsscombine.go > ../site/feed.xml
     
     - name: Publish to git
       working-directory: ./site
