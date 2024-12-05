@@ -34,7 +34,7 @@ jobs:
           ${{ runner.os }}-go-        
 
     - name: Build
-      working-directory: ./rss-combine
+      working-directory: rss-combine
       run: go build -v ./...
 
     - uses: actions/checkout@v4
@@ -43,6 +43,7 @@ jobs:
         path: site
 
     - name: Run
+      working-directory: rss-combine
       env:
         RSSCOMBINE_TITLE: "UofT Weblogging Club RSS Feed"        
         RSSCOMBINE_DESCRIPTION: "An RSS aggregation of all feeds for members' websites for the UofT Weblogging club"
@@ -55,7 +56,7 @@ jobs:
         go run rsscombine.go > /tmp/feed.xml
     
     - name: Publish to git
-      working-directory: ./site
+      working-directory: site
       run: |
         cp /tmp/feed.xml ./feed.xml
         git config user.name "GitHub Actions Bot"
