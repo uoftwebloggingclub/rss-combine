@@ -59,7 +59,7 @@ jobs:
     
     - name: Publish to git
       working-directory: site
-      run: ./pubish.sh
+      run: ../rss-combine/publish.sh
   
   keepalive:
 
