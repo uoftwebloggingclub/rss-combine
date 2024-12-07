@@ -59,13 +59,7 @@ jobs:
     
     - name: Publish to git
       working-directory: site
-      run: |
-        cp /tmp/feed.xml ./feed.xml
-        git config user.name "GitHub Actions Bot"
-        git config user.email "<>"
-        git add feed.xml
-        git commit -m "Automated RSS update"
-        git push origin main
+      run: ./pubish.sh
   
   keepalive:
 
