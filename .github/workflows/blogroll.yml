@@ -58,14 +58,16 @@ jobs:
         go run rsscombine.go > /tmp/feed.xml
     
     - name: Copy over publish script tmp
+      working-directory: rss-combine
       run: cp ./runner/publish.sh /tmp
 
     - name: Copy over publish script site
+      working-directory: site
       run: cp /tmp/publish.sh ./
     
     - name: Publish to git
       working-directory: site
-      run: ../publish.sh
+      run: ./publish.sh
   
   keepalive:
 
