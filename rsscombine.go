@@ -142,10 +142,18 @@ func combineallFeeds(allFeeds []*gofeed.Feed) *feeds.Feed {
 			if created == nil {
 				created = item.UpdatedParsed
 			}
+			var description string
+			if item.Description != "" {
+				description = item.Description
+			} else if item.Custom["summary"] != "" {
+				description = item.Custom["summary"]
+			} else {
+				description = ""
+			}
 			feed.Items = append(feed.Items, &feeds.Item{
 				Title:       item.Title,
 				Link:        &feeds.Link{Href: item.Link},
-				Description: item.Description,
+				Description: description,
 				Author:      &feeds.Author{Name: getAuthor(sourceFeed)},
 				Created:     *created,
 				Content:     item.Content,
