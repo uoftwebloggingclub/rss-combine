@@ -46,14 +46,6 @@ jobs:
 
     - name: Run
       working-directory: rss-combine
-      env:
-        RSSCOMBINE_TITLE: "UofT Weblogging Club RSS Feed"        
-        RSSCOMBINE_DESCRIPTION: "An RSS aggregation of all feeds for members' websites for the UofT Weblogging club"
-        RSSCOMBINE_AUTHOR_EMAIL: "uoftwebloggingclub@gmail.com"        
-        RSSCOMBINE_AUTHOR_NAME: "UofT Weblogging Club"
-        RSSCOMBINE_FEED_LIMIT_PER_FEED: 10
-        RSSCOMBINE_FEED_URLS: "https://uoftwebloggingclub.neocities.org/rss"
-        RSSCOMBINE_LINK: "https://uoftwebloggingclub.neocities.org/"
       run: |
         go run rsscombine.go > /tmp/feed.xml
     

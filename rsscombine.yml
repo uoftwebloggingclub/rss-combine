@@ -1,9 +1,11 @@
-title: My Technical RSS Feed
-link: http://wherethisfeedishosted.com/feed
-description: This is a personal collection of technical RSS feeds.
-author_name: John Doe
-author_email: john@example.com
+title: UofT Weblogging Club RSS Feed
+link: https://uoftwebloggingclub.neocities.org/feed.xml
+description: An RSS aggregation of all feeds for members' websites for the UofT Weblogging club
+author_name: UofT Weblogging Club
+author_email: uoftwebloggingclub@gmail.com
 port: 8080
 server_timeout_seconds: 60
 client_timeout_seconds: 60
 cache_timeout_seconds: 3600
+limit_per_feed: 10
+feed_urls: "https://uoftwebloggingclub.neocities.org/rss"
