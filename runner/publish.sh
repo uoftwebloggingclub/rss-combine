@@ -1,7 +1,5 @@
 #!/bin/bash
 
-git checkout rss
-
 cp /tmp/feed.xml ./feed.xml
 
 git config user.name "GitHub Actions Bot"
