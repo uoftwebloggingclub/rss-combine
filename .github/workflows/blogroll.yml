@@ -41,7 +41,7 @@ jobs:
       with:
         repository: uoftwebloggingclub/uoftwebloggingclub.neocities.org
         token: ${{ secrets.GIT_PAT }}
-        ref: 'main'
+        ref: 'rss'
         path: site
 
     - name: Run
