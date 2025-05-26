@@ -44,4 +44,4 @@ jobs:
 
     - name: Publish to git
       working-directory: rss-combine
-      run: ./publish.sh
+      run: ./runner/publish.sh
