@@ -1,11 +1,10 @@
 #!/bin/bash
 
-mkdir /dist
-cp /tmp/feed.xml ./dist/feed.xml
+cp /tmp/feed.xml feed.xml
 
 git config user.name "GitHub Actions Bot"
 git config user.email "<>"
-git add dist/feed.xml
+git add feed.xml
 git commit -m "Automated RSS update"
 
 added=$(git diff --shortstat HEAD~ HEAD | awk '{ print $4 }') # Number of lines added
