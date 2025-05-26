@@ -37,26 +37,11 @@ jobs:
       working-directory: rss-combine
       run: go build -v ./...
 
-    - uses: actions/checkout@v4
-      with:
-        repository: uoftwebloggingclub/uoftwebloggingclub.neocities.org
-        token: ${{ secrets.GIT_PAT }}
-        ref: 'rss'
-        path: site
-
     - name: Run
       working-directory: rss-combine
       run: |
         go run rsscombine.go > /tmp/feed.xml
-    
-    - name: Copy over publish script tmp
-      working-directory: rss-combine
-      run: cp ./runner/publish.sh /tmp
 
-    - name: Copy over publish script site
-      working-directory: site
-      run: cp /tmp/publish.sh ./
-    
     - name: Publish to git
-      working-directory: site
+      working-directory: rss-combine
       run: ./publish.sh
