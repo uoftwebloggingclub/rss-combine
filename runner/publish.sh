@@ -11,7 +11,7 @@ added=$(git diff --shortstat HEAD~ HEAD | awk '{ print $4 }') # Number of lines 
 subbed=$(git diff --shortstat HEAD~ HEAD | awk '{ print $6 }') # Number of lines subtracted
 
 if [ "$added" -gt "1" ] || [ "$subbed" -gt "1" ]; then
-    git push origin main
+    git push origin master
 else
     echo "No real updates!"
 fi
