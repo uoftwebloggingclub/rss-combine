@@ -51,4 +51,4 @@ jobs:
 
     - name: Publish to git
       working-directory: feed
-      run: ./publish.sh
+      run: bash publish.sh
