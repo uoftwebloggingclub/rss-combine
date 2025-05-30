@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git checkout feed
+git checkout origin/feed
 
 cp /tmp/feed.xml feed.xml
 
