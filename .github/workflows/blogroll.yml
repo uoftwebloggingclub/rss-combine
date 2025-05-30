@@ -20,6 +20,11 @@ jobs:
           path: rss-combine
           ref: 'master'
 
+    - uses: actions/checkout@v4
+      with:
+          path: feed
+          ref: 'feed'
+
 
     - name: Set up Go
       uses: actions/setup-go@v3
@@ -45,5 +50,5 @@ jobs:
         go run rsscombine.go > /tmp/feed.xml
 
     - name: Publish to git
-      working-directory: rss-combine
+      working-directory: feed
       run: ./runner/publish.sh
