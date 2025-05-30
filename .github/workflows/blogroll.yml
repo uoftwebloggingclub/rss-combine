@@ -19,7 +19,6 @@ jobs:
       with:
           path: rss-combine
           ref: 'master'
-          token: ${{ secrets.GIT_PAT }}
 
 
     - name: Set up Go
