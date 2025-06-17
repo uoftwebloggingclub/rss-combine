@@ -23,7 +23,7 @@ jobs:
     - uses: actions/checkout@v4
       with:
         repository: uoftwebloggingclub/uoftwebloggingclub.neocities.org
-        token: ${{ secrets.GIT_PAT }}
+        token: ${{ secrets.GITHUB_TOKEN }}
         ref: 'rss-update'
         path: site
 
