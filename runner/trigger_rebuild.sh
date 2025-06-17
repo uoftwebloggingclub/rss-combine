@@ -1,6 +1,7 @@
 #!/bin/bash
 
-if [[ grep "No real updates!" /tmp/publish.log; ]] then
+if grep "No real updates!" /tmp/publish.log
+then
     return
 fi
 
