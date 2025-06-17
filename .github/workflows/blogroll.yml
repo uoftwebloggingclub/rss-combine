@@ -61,6 +61,7 @@ jobs:
       run: bash publish.sh > /tmp/publish.log
 
     - name: Move trigger_rebuild A
+      working-directory: rss-combine
       run: cp ./runner/trigger_rebuild.sh /tmp
 
     - name: Move trigger_rebuild B
