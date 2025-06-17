@@ -2,7 +2,7 @@ name: blogroll
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "rss_update" ]
   pull_request:
     branches: [ "master" ]
   schedule:
@@ -19,6 +19,13 @@ jobs:
       with:
           path: rss-combine
           ref: 'master'
+
+    - uses: actions/checkout@v4
+      with:
+        repository: uoftwebloggingclub/uoftwebloggingclub.neocities.org
+        token: ${{ secrets.GIT_PAT }}
+        ref: 'rss-update'
+        path: site
 
     - uses: actions/checkout@v4
       with:
@@ -51,4 +58,8 @@ jobs:
 
     - name: Publish to git
       working-directory: feed
-      run: bash publish.sh
+      run: bash publish.sh > /tmp/publish.log
+
+    - name: Trigger site rebuild
+      working-directory: site
+      run: bash trigger_rebuild.sh
