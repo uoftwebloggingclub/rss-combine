@@ -60,6 +60,13 @@ jobs:
       working-directory: feed
       run: bash publish.sh > /tmp/publish.log
 
+    - name: Move trigger_rebuild A
+      run: cp ./runner/trigger_rebuild.sh /tmp
+
+    - name: Move trigger_rebuild B
+      working-directory: site
+      run: cp /tmp/trigger_rebuild.sh ./
+
     - name: Trigger site rebuild
       working-directory: site
       run: bash ./runner/trigger_rebuild.sh
