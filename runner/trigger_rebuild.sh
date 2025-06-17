@@ -2,7 +2,7 @@
 
 if grep "No real updates!" /tmp/publish.log
 then
-    return
+    exit 0
 fi
 
 git config user.name "GitHub Actions Bot"
