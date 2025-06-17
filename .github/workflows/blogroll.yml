@@ -69,4 +69,4 @@ jobs:
 
     - name: Trigger site rebuild
       working-directory: site
-      run: bash ./runner/trigger_rebuild.sh
+      run: bash  trigger_rebuild.sh
