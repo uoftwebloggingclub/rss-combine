@@ -58,7 +58,17 @@ func fetchUrl(url string, ch chan<- *gofeed.Feed) {
 	fp.Client = &http.Client{
 		Timeout: time.Duration(viper.GetInt("client_timeout_seconds")) * time.Second,
 	}
-	feed, err := fp.ParseURL(url)
+	var feed *gofeed.Feed
+	var err error
+	for i := 0; i < 3; i++ {
+		feed, err = fp.ParseURL(url)
+		if err == nil {
+			break
+		}
+		log.Printf("Attempt %d failed for URL %v: %v", i+1, url, err)
+		time.Sleep(0.5 * time.Second) // optional: wait before retrying
+	}
+
 	if err == nil {
 		ch <- feed
 	} else {
