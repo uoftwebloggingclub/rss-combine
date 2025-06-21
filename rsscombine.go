@@ -66,7 +66,7 @@ func fetchUrl(url string, ch chan<- *gofeed.Feed) {
 			break
 		}
 		log.Printf("Attempt %d failed for URL %v: %v", i+1, url, err)
-		time.Sleep(0.5 * time.Second) // optional: wait before retrying
+		time.Sleep(1 * time.Second) // optional: wait before retrying
 	}
 
 	if err == nil {
