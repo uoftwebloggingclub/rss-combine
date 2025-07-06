@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-07-06T16:18:38Z</updated>
+  <updated>2025-07-06T22:16:13Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>first post</title>
+    <updated>2025-07-06T05:57:56Z</updated>
+    <id>tag:ecorbin567.neocities.org,2025-07-06:/posts/2025-07-05-first-post</id>
+    <link href="https://ecorbin567.neocities.org/posts/2025-07-05-first-post" rel="alternate"></link>
+    <summary type="html">the first post</summary>
+    <author>
+      <name>Unknown Author</name>
+    </author>
+  </entry>
   <entry>
     <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
     <updated>2025-06-26T12:20:00Z</updated>
