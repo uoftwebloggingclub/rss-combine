@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-09-01T16:18:56Z</updated>
+  <updated>2025-09-07T22:13:17Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>Website redesign</title>
+    <updated>2025-09-07T12:00:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-09-07:</id>
+    <link href="https://sonechka.neocities.org" rel="alternate"></link>
+    <summary type="html">Redid the homepage, review page, and blog.</summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
+    <updated>2025-06-26T12:20:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
+    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
+    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
   <entry>
     <title>Bot Dylan, or, adventures in the music taste of old white guys</title>
     <updated>2025-08-21T20:38:31Z</updated>
@@ -236,16 +256,6 @@
     <summary type="html">Image source. (Not a spoiler.) Happy weekend-after-Pi-Day, everyone! Hope you all are recovering from a week of (no doubt) partying hard...</summary>
     <author>
       <name>Elise Corbin</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
-    <updated>2025-06-26T12:20:00Z</updated>
-    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
-    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
-    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
-    <author>
-      <name>Marta</name>
     </author>
   </entry>
   <entry>
