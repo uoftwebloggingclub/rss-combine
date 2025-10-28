@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-10-11T04:17:44Z</updated>
+  <updated>2025-10-28T06:25:28Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
@@ -633,6 +633,56 @@
     <id>tag:www.yoshixi.net,2025-06-16:/blog/wonderful-online-universities</id>
     <link href="https://www.yoshixi.net/blog/wonderful-online-universities" rel="alternate"></link>
     <summary type="html">awesome stuff you can learn online</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DeerHacks 2025</title>
+    <updated>2025-02-16T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-16:/hackathons/deerhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/deerhacks2025" rel="alternate"></link>
+    <summary type="html">DeerHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DS3 Datathon 2025</title>
+    <updated>2025-02-22T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-22:/hackathons/ds3datathon2025</id>
+    <link href="https://www.yoshixi.net/hackathons/ds3datathon2025" rel="alternate"></link>
+    <summary type="html">DS3 Datathon 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hackthe6ix 2025</title>
+    <updated>2025-07-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-07-27:/hackathons/hackthe6ix2025</id>
+    <link href="https://www.yoshixi.net/hackathons/hackthe6ix2025" rel="alternate"></link>
+    <summary type="html">Hackthe6ix 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>SpurHacks 2025</title>
+    <updated>2025-06-23T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-06-23:/hackathons/spurhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/spurhacks2025" rel="alternate"></link>
+    <summary type="html">SpurHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Touhou Jam 6</title>
+    <updated>2025-10-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-10-27:/hackathons/touhoujam6</id>
+    <link href="https://www.yoshixi.net/hackathons/touhoujam6" rel="alternate"></link>
+    <summary type="html">Touhou Jam 6 Devlog</summary>
     <author>
       <name>yoshixi</name>
     </author>
