@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-12-22T20:19:23Z</updated>
+  <updated>2025-12-23T03:23:51Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
@@ -9,53 +9,13 @@
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
   <entry>
-    <title>Review: Água Viva by Clarice Lispector</title>
-    <updated>2025-09-18T12:15:00Z</updated>
-    <id>tag:sonechka.neocities.org,2025-09-18:/blog/agua-viva</id>
-    <link href="https://sonechka.neocities.org/blog/agua-viva" rel="alternate"></link>
-    <summary type="html">A long-form review for a book club.</summary>
+    <title>Interval Train-ing</title>
+    <updated>2025-12-23T01:51:57Z</updated>
+    <id>tag:www.cruciverbology.com,2025-12-23:/post/interval-train-ing</id>
+    <link href="https://www.cruciverbology.com/post/interval-train-ing" rel="alternate"></link>
+    <summary type="html">Image source . Not a spoiler. It&#39;s been forever! Summer courses ended in mid-August, and then I had exactly a week before the next courses started, which I spent a long way away from my laptop. So this is my first break in a while where I get to make some puzzles! Here is a variety puzzle about trains, which was in fact written on a train (the Via Rail/Amtrak Maple Leaf). I&#39;ve made a few variety-puzzle-ish grids for this blog before, but this is the first one conceived as a variety puzzle...</summary>
     <author>
-      <name>Marta</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
-    <updated>2025-06-26T12:20:00Z</updated>
-    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
-    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
-    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
-    <author>
-      <name>Marta</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Bot Dylan, or, adventures in the music taste of old white guys</title>
-    <updated>2025-08-21T20:38:31Z</updated>
-    <id>tag:ecorbin567.neocities.org,2025-08-21:/posts/2025-08-21-bot-dylan</id>
-    <link href="https://ecorbin567.neocities.org/posts/2025-08-21-bot-dylan" rel="alternate"></link>
-    <summary type="html">bad reviews of the top 500 songs of all time</summary>
-    <author>
-      <name>Unknown Author</name>
-    </author>
-  </entry>
-  <entry>
-    <title>How I fell down the upcycling rabbit hole</title>
-    <updated>2025-08-10T05:39:59Z</updated>
-    <id>tag:ecorbin567.neocities.org,2025-08-10:/posts/2025-08-09-the-upcycling-rabbit-hole</id>
-    <link href="https://ecorbin567.neocities.org/posts/2025-08-09-the-upcycling-rabbit-hole" rel="alternate"></link>
-    <summary type="html">it started out with a hyperbolic pair of pants, how did it end up like this</summary>
-    <author>
-      <name>Unknown Author</name>
-    </author>
-  </entry>
-  <entry>
-    <title>HTML in the park 2025</title>
-    <updated>2025-07-07T21:01:58Z</updated>
-    <id>tag:ecorbin567.neocities.org,2025-07-07:/posts/2025-07-07-html-in-the-park-2025</id>
-    <link href="https://ecorbin567.neocities.org/posts/2025-07-07-html-in-the-park-2025" rel="alternate"></link>
-    <summary type="html">a recap of HTML in the park 2025 and a worm website</summary>
-    <author>
-      <name>Unknown Author</name>
+      <name>Elise Corbin</name>
     </author>
   </entry>
   <entry>
@@ -249,13 +209,53 @@
     </author>
   </entry>
   <entry>
-    <title>Polar Plunge</title>
-    <updated>2023-03-19T03:44:37Z</updated>
-    <id>tag:www.cruciverbology.com,2023-03-19:/post/polar-plunge</id>
-    <link href="https://www.cruciverbology.com/post/polar-plunge" rel="alternate"></link>
-    <summary type="html">Image source. (Not a spoiler.) Happy weekend-after-Pi-Day, everyone! Hope you all are recovering from a week of (no doubt) partying hard...</summary>
+    <title>Review: Água Viva by Clarice Lispector</title>
+    <updated>2025-09-18T12:15:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-09-18:/blog/agua-viva</id>
+    <link href="https://sonechka.neocities.org/blog/agua-viva" rel="alternate"></link>
+    <summary type="html">A long-form review for a book club.</summary>
     <author>
-      <name>Elise Corbin</name>
+      <name>Marta</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
+    <updated>2025-06-26T12:20:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
+    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
+    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Bot Dylan, or, adventures in the music taste of old white guys</title>
+    <updated>2025-08-21T20:38:31Z</updated>
+    <id>tag:ecorbin567.neocities.org,2025-08-21:/posts/2025-08-21-bot-dylan</id>
+    <link href="https://ecorbin567.neocities.org/posts/2025-08-21-bot-dylan" rel="alternate"></link>
+    <summary type="html">bad reviews of the top 500 songs of all time</summary>
+    <author>
+      <name>Unknown Author</name>
+    </author>
+  </entry>
+  <entry>
+    <title>How I fell down the upcycling rabbit hole</title>
+    <updated>2025-08-10T05:39:59Z</updated>
+    <id>tag:ecorbin567.neocities.org,2025-08-10:/posts/2025-08-09-the-upcycling-rabbit-hole</id>
+    <link href="https://ecorbin567.neocities.org/posts/2025-08-09-the-upcycling-rabbit-hole" rel="alternate"></link>
+    <summary type="html">it started out with a hyperbolic pair of pants, how did it end up like this</summary>
+    <author>
+      <name>Unknown Author</name>
+    </author>
+  </entry>
+  <entry>
+    <title>HTML in the park 2025</title>
+    <updated>2025-07-07T21:01:58Z</updated>
+    <id>tag:ecorbin567.neocities.org,2025-07-07:/posts/2025-07-07-html-in-the-park-2025</id>
+    <link href="https://ecorbin567.neocities.org/posts/2025-07-07-html-in-the-park-2025" rel="alternate"></link>
+    <summary type="html">a recap of HTML in the park 2025 and a worm website</summary>
+    <author>
+      <name>Unknown Author</name>
     </author>
   </entry>
   <entry>
