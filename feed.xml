@@ -1,13 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-12-26T06:27:33Z</updated>
+  <updated>2025-12-27T01:19:18Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>new host, new RSS</title>
+    <updated>2025-12-26T19:00:00Z</updated>
+    <id>tag:sonechka.bouvardia.blue,2025-12-26:/rss.xml</id>
+    <link href="https://sonechka.bouvardia.blue/rss.xml" rel="alternate"></link>
+    <summary type="html"></summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Review: Água Viva by Clarice Lispector</title>
+    <updated>2025-09-18T12:15:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-09-18:/blog/agua-viva</id>
+    <link href="https://sonechka.neocities.org/blog/agua-viva" rel="alternate"></link>
+    <summary type="html">A long-form review for a book club.</summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
+    <updated>2025-06-26T12:20:00Z</updated>
+    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
+    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
+    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
+    <author>
+      <name>Marta</name>
+    </author>
+  </entry>
   <entry>
     <title>Interval Train-ing</title>
     <updated>2025-12-23T01:51:57Z</updated>
@@ -206,26 +236,6 @@
     <summary type="html">Image source. (Has nothing to do with the theme.) I had an amazing time at ACPT last weekend!!! I had no idea so many people had heard...</summary>
     <author>
       <name>Elise Corbin</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Review: Água Viva by Clarice Lispector</title>
-    <updated>2025-09-18T12:15:00Z</updated>
-    <id>tag:sonechka.neocities.org,2025-09-18:/blog/agua-viva</id>
-    <link href="https://sonechka.neocities.org/blog/agua-viva" rel="alternate"></link>
-    <summary type="html">A long-form review for a book club.</summary>
-    <author>
-      <name>Marta</name>
-    </author>
-  </entry>
-  <entry>
-    <title>Referenced artworks in Deleuze&#39;s Francis Bacon</title>
-    <updated>2025-06-26T12:20:00Z</updated>
-    <id>tag:sonechka.neocities.org,2025-06-26:/blog/francis-bacon</id>
-    <link href="https://sonechka.neocities.org/blog/francis-bacon" rel="alternate"></link>
-    <summary type="html">I was annoyed that I couldn&#39;t find a complete and convenient index of the works referenced in Francis Bacon: The Logic of Sensation so I made my own.</summary>
-    <author>
-      <name>Marta</name>
     </author>
   </entry>
   <entry>
