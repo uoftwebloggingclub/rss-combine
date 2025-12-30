@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2025-12-29T18:26:06Z</updated>
+  <updated>2025-12-30T01:21:32Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
@@ -416,6 +416,16 @@
     <id>tag:sageland.neocities.org,2025-03-30:/posts/monthly-whwc-challenge-1-small-web</id>
     <link href="https://sageland.neocities.org/posts/monthly-whwc-challenge-1-small-web" rel="alternate"></link>
     <summary type="html">Monthly WHWC challenges, March 2025. This month&#39;s theme is small web! I talked about how small web could replace social media in the (near) future.&#xA;</summary>
+    <author>
+      <name>Unknown Author</name>
+    </author>
+  </entry>
+  <entry>
+    <title>New Year, Old Me</title>
+    <updated>2025-12-29T22:43:00Z</updated>
+    <id>tag:sageland.neocities.org,2025-12-29:/posts/new-year-old-me</id>
+    <link href="https://sageland.neocities.org/posts/new-year-old-me" rel="alternate"></link>
+    <summary type="html">I don&#39;t like New Year&#39;s resolutions; they feel like promises that are bound to be broken. If I truly want to change, I wouldn&#39;t wait for a date or put a deadline on it. The urge to improve comes suddenly, but the actual process of improvement is long, slow, and painful. That&#39;s why making a bunch of claims about how you will change &#34;next year&#34; sounds like a lie to me. However, I, too, am guilty of making bold claims on a random Wednesday evening about how I will change and be my best self as soon as tomorrow. When tomorrow comes, the only thing that changes is my desire to improve. Despite that, I did manage to improve myself in several areas this year, and I want to talk about it.</summary>
     <author>
       <name>Unknown Author</name>
     </author>
