@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2026-01-27T04:43:35Z</updated>
+  <updated>2026-01-27T06:30:16Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
@@ -596,5 +596,155 @@
     <id>tag:jahanrashidi.com,2023-08-24:/thought/trees</id>
     <link href="https://jahanrashidi.com/thought/trees" rel="alternate"></link>
     <summary type="html"> Trees are so nice. They&#39;re like buildings, tall, sturdy - but yet they still live. Since life has lived on land so have trees, and once we rot they will still remain.&#xA;&lt;br&gt;&lt;br&gt;&#xA;We chop them down and trust their corpses to shield us from nature, and from them utters not a single complain. Their children surrounding them that witness this act harbor no ill will, they simply sit tall in indifference.&#xA;&lt;br&gt;&lt;br&gt;&#xA;Would we even had been able to come about without their existence? Well, probably - something else would take its place, but we would in no way be the same. Our form is fitted for trees. The hands we used to use for grabbing branches we now use for grabbing tools. Our feet are mostly pointless now, at least our toes, considering the quite large normal-shoe to toe-shoe ratio. Speaking of that, &lt;a href=&#34;https://kevquirk.com/a-case-for-toe-socks&#34;&gt;check out this article from Kev Quirk about toe socks&lt;/a&gt;.&#xA;&lt;br&gt;&lt;br&gt;&#xA;I wonder why there aren&#39;t any (mainstream) religions that worship trees. I mean sure, trees are somewhat holy in &lt;a href=&#34;https://en.wikipedia.org/wiki/Nature_religion&#34;&gt;certain religions&lt;/a&gt;, and many different belief systems have &lt;a href=&#34;https://en.wikipedia.org/wiki/Trees_in_mythology&#34;&gt;specific holy trees&lt;/a&gt;, but I&#39;ve never heard of one that goes all the way. Why don&#39;t tree-huggers embrace the name and come out with huggism? I suppose trees are too important to our lives, so the belief that all trees are holy must be too much to bear with their constant fall. That does imply that followers would consider the death of a tree as sacrilege, but if that weren&#39;t the case it would make it an easier religion to follow. Instead of avoiding wooden products like the plague, one could fully embrace the wood-nymph aesthetic (is that a real thing? &lt;tiny&gt;update: not what I had in mind, but &lt;a href=&#34;https://www.pinterest.com/lavenderheather/wood-nymph-aesthetic/&#34;&gt;it exists&lt;/a&gt;&lt;/tiny&gt;) and live a nice life.&#xA;&lt;br&gt;&lt;br&gt;&#xA;Anyways, I&#39;m going to go stare at some trees. </summary>
+  </entry>
+  <entry>
+    <title>First Post</title>
+    <updated>2024-12-25T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-25:/blog/firstpost</id>
+    <link href="https://www.yoshixi.net/blog/firstpost" rel="alternate"></link>
+    <summary type="html">This is my very first post and the first mark on this world. Hello yellow world</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Preparing my garden to defend against zombies</title>
+    <updated>2025-05-03T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-05-03:/blog/garden1</id>
+    <link href="https://www.yoshixi.net/blog/garden1" rel="alternate"></link>
+    <summary type="html">Throwing worms and pulling weeds out the earth</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>EVERYTHING IN MY GARDEN IS DEAD!! 😭😭😭</title>
+    <updated>2025-08-26T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-08-26:/blog/garden2</id>
+    <link href="https://www.yoshixi.net/blog/garden2" rel="alternate"></link>
+    <summary type="html">EVERYTHING! ITS ALL DEAD ITS ALL ROTTEN!!!</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Great Gopher and Gemini Sites</title>
+    <updated>2025-03-30T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-03-30:/blog/gemini-sites</id>
+    <link href="https://www.yoshixi.net/blog/gemini-sites" rel="alternate"></link>
+    <summary type="html">Here is a collection of cool gemini sites, blogs, art pieces.</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Some absolutely horrible things you can say to your debug duckie</title>
+    <updated>2025-02-12T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-12:/blog/horribleducky</id>
+    <link href="https://www.yoshixi.net/blog/horribleducky" rel="alternate"></link>
+    <summary type="html">Yesterday, I found a rubber duckie while I was clearing some of my brother&#39;s stuff. here are some things I said that pissed it off</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>How to make potions at home for cheap</title>
+    <updated>2024-12-26T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-26:/blog/how-to-brew-potions</id>
+    <link href="https://www.yoshixi.net/blog/how-to-brew-potions" rel="alternate"></link>
+    <summary type="html">Share with all the wicked in your life</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>My Gateron Low Profile Keyboard Build Log</title>
+    <updated>2024-12-28T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-28:/blog/my-glp-build-log</id>
+    <link href="https://www.yoshixi.net/blog/my-glp-build-log" rel="alternate"></link>
+    <summary type="html">Here I spend ridicuous time and energy to build an ergo mechanical keyboard</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Formal Language Structure to Describe a Universal Theory of Everything</title>
+    <updated>2025-12-09T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-12-09:/blog/theory-of-everything</id>
+    <link href="https://www.yoshixi.net/blog/theory-of-everything" rel="alternate"></link>
+    <summary type="html">how graphs can describe things and how we can make a programming language based of CoC to describe everything in the world</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The wonderful world of online universities</title>
+    <updated>2025-06-16T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-06-16:/blog/wonderful-online-universities</id>
+    <link href="https://www.yoshixi.net/blog/wonderful-online-universities" rel="alternate"></link>
+    <summary type="html">awesome stuff you can learn online</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DeerHacks 2025</title>
+    <updated>2025-02-16T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-16:/hackathons/deerhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/deerhacks2025" rel="alternate"></link>
+    <summary type="html">DeerHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DS3 Datathon 2025</title>
+    <updated>2025-02-22T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-22:/hackathons/ds3datathon2025</id>
+    <link href="https://www.yoshixi.net/hackathons/ds3datathon2025" rel="alternate"></link>
+    <summary type="html">DS3 Datathon 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hackthe6ix 2025</title>
+    <updated>2025-07-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-07-27:/hackathons/hackthe6ix2025</id>
+    <link href="https://www.yoshixi.net/hackathons/hackthe6ix2025" rel="alternate"></link>
+    <summary type="html">Hackthe6ix 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>SpurHacks 2025</title>
+    <updated>2025-06-23T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-06-23:/hackathons/spurhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/spurhacks2025" rel="alternate"></link>
+    <summary type="html">SpurHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Touhou Jam 6</title>
+    <updated>2025-10-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-10-27:/hackathons/touhoujam6</id>
+    <link href="https://www.yoshixi.net/hackathons/touhoujam6" rel="alternate"></link>
+    <summary type="html">Touhou Jam 6 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Winter Gamejam 2025</title>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2026-01-07:/hackathons/winterjam2025</id>
+    <link href="https://www.yoshixi.net/hackathons/winterjam2025" rel="alternate"></link>
+    <summary type="html">Winter Gamejam 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
   </entry>
 </feed>
