@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2026-03-10T04:06:12Z</updated>
+  <updated>2026-03-11T04:06:50Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>Fool’s Spring</title>
+    <updated>2026-03-10T00:00:00Z</updated>
+    <id>tag:aabel.neocities.org,2026-03-10:/2026/03/10/fools-spring.html</id>
+    <content type="html">&lt;p&gt;Today, the weather is nice. It feels like it has been so, so long since the weather has last felt like this. After four months of unrelenting winter, it actually feels good to be outside now. The heat and smell outdoors together remind me so much of 2025 and 2024, when on a day like this, pivotal events would happen during the spring. The snow outside has mostly been entirely melted, and the temperature is warm enough that there’s people gathering again in King College Circle. Although the field is still a yellow-brown patch of dead grass, at least there’s people playing frisbees on it again. It hasn’t been the best week, but the weather—even if it’s just by a little—no doubt does help to lessen the excruciating neuroses. With the sunlight outside, it feels like I’m finally able to stick my head up to breathe, after I’ve held my breathe underwater for a long time, enough time that I’ve forgotten what a clear sky looks like.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;It’s also the final stretch of the semester now at the nine week mark. But because there’s just a couple of weeks left, there’s more work than ever before. My time is divided over either studying, or reading, in vain, books that I can’t be bothered to think much about. Soon, though, it will be all over.&lt;/p&gt;</content>
+    <link href="https://aabel.neocities.org/2026/03/10/fools-spring.html" rel="alternate"></link>
+    <summary type="html">Today, the weather is nice. It feels like it has been so, so long since the weather has last felt like this. After four months of unrelenting winter, it actually feels good to be outside now. The heat and smell outdoors together remind me so much of 2025 and 2024, when on a day like this, pivotal events would happen during the spring. The snow outside has mostly been entirely melted, and the temperature is warm enough that there’s people gathering again in King College Circle. Although the field is still a yellow-brown patch of dead grass, at least there’s people playing frisbees on it again. It hasn’t been the best week, but the weather—even if it’s just by a little—no doubt does help to lessen the excruciating neuroses. With the sunlight outside, it feels like I’m finally able to stick my head up to breathe, after I’ve held my breathe underwater for a long time, enough time that I’ve forgotten what a clear sky looks like. It’s also the final stretch of the semester now at the nine week mark. But because there’s just a couple of weeks left, there’s more work than ever before. My time is divided over either studying, or reading, in vain, books that I can’t be bothered to think much about. Soon, though, it will be all over.</summary>
+  </entry>
   <entry>
     <title>Perverts of the Apocalypse</title>
     <updated>2026-03-07T00:00:00Z</updated>
