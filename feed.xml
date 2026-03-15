@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2026-03-14T18:32:53Z</updated>
+  <updated>2026-03-15T05:25:56Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>From a Letter of Hamann</title>
+    <updated>2026-03-15T00:00:00Z</updated>
+    <id>tag:aabel.neocities.org,2026-03-15:/2026/03/15/from-a-letter-of-hamann.html</id>
+    <content type="html">&lt;p&gt;From a letter of Hamann, written to Jacobi a few weeks before his death: “To do what one hates, and having to hate what one does, and having to carry these contradictions about with oneself is a real cross to bear.”&lt;/p&gt;</content>
+    <link href="https://aabel.neocities.org/2026/03/15/from-a-letter-of-hamann.html" rel="alternate"></link>
+    <summary type="html">From a letter of Hamann, written to Jacobi a few weeks before his death: “To do what one hates, and having to hate what one does, and having to carry these contradictions about with oneself is a real cross to bear.”</summary>
+  </entry>
   <entry>
     <title>Fool’s Spring</title>
     <updated>2026-03-10T00:00:00Z</updated>
