@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2026-03-20T20:28:00Z</updated>
+  <updated>2026-03-21T04:02:19Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
     <name>UofT Weblogging Club</name>
     <email>uoftwebloggingclub@gmail.com</email>
   </author>
+  <entry>
+    <title>Finals Season</title>
+    <updated>2026-03-20T00:00:00Z</updated>
+    <id>tag:aabel.neocities.org,2026-03-20:/2026/03/20/finals-season.html</id>
+    <content type="html">&lt;p&gt;So it’s finals season now. Because of it, I haven’t had time to do anything other than studying. The most I’ve done in the past two weeks was making zines, which will not be available on this site, but however, I will consider mailing them out if you contact me.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;I plan to do a couple things with this website; mostly to make it more interesting, and to have more things here. The contacts page is still empty, since I don’t know really know what I should leave, as if you know me, you should be able to contact me one way or another.&lt;/p&gt;</content>
+    <link href="https://aabel.neocities.org/2026/03/20/finals-season.html" rel="alternate"></link>
+    <summary type="html">So it’s finals season now. Because of it, I haven’t had time to do anything other than studying. The most I’ve done in the past two weeks was making zines, which will not be available on this site, but however, I will consider mailing them out if you contact me. I plan to do a couple things with this website; mostly to make it more interesting, and to have more things here. The contacts page is still empty, since I don’t know really know what I should leave, as if you know me, you should be able to contact me one way or another.</summary>
+  </entry>
   <entry>
     <title>From a Letter of Hamann</title>
     <updated>2026-03-15T00:00:00Z</updated>
