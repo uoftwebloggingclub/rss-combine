@@ -85,7 +85,7 @@ func fetchUrls(urls []string) []*gofeed.Feed {
 	}
 	for range urls {
 		feed := <-ch
-		if feed != nil {
+		if feed != nil && len(feed.Items) > 0 {
 			allFeeds = append(allFeeds, feed)
 		}
 	}
@@ -104,6 +104,9 @@ func (s byPublished) Swap(i, j int) {
 }
 
 func (s byPublished) Less(i, j int) bool {
+	if len(s[i].Items) == 0 { return false }
+	if len(s[j].Items) == 0 { return true }
+
 	date1 := s[i].Items[0].PublishedParsed
 	if date1 == nil {
 		date1 = s[i].Items[0].UpdatedParsed
@@ -112,6 +115,17 @@ func (s byPublished) Less(i, j int) bool {
 	if date2 == nil {
 		date2 = s[j].Items[0].UpdatedParsed
 	}
+
+	if date1 == nil && date2 == nil {
+		return false
+	}
+	if date1 == nil {
+		return false
+	}
+	if date2 == nil {
+		return true
+	}
+	
 	return date1.Before(*date2)
 }
 
