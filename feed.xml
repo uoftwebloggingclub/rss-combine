@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>UofT Weblogging Club RSS Feed</title>
   <id>https://uoftwebloggingclub.neocities.org/feed.xml</id>
-  <updated>2026-04-27T21:00:01Z</updated>
+  <updated>2026-04-28T02:36:57Z</updated>
   <subtitle>An RSS aggregation of all feeds for members&#39; websites for the UofT Weblogging club</subtitle>
   <link href="https://uoftwebloggingclub.neocities.org/feed.xml"></link>
   <author>
@@ -551,6 +551,156 @@
     <summary type="html">I don&#39;t like New Year&#39;s resolutions; they feel like promises that are bound to be broken. If I truly want to change, I wouldn&#39;t wait for a date or put a deadline on it. The urge to improve comes suddenly, but the actual process of improvement is long, slow, and painful. That&#39;s why making a bunch of claims about how you will change &#34;next year&#34; sounds like a lie to me. However, I, too, am guilty of making bold claims on a random Wednesday evening about how I will change and be my best self as soon as tomorrow. When tomorrow comes, the only thing that changes is my desire to improve. Despite that, I did manage to improve myself in several areas this year, and I want to talk about it.</summary>
     <author>
       <name>Unknown Author</name>
+    </author>
+  </entry>
+  <entry>
+    <title>First Post</title>
+    <updated>2024-12-25T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-25:/blog/firstpost</id>
+    <link href="https://www.yoshixi.net/blog/firstpost" rel="alternate"></link>
+    <summary type="html">This is my very first post and the first mark on this world. Hello yellow world</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Preparing my garden to defend against zombies</title>
+    <updated>2025-05-03T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-05-03:/blog/garden1</id>
+    <link href="https://www.yoshixi.net/blog/garden1" rel="alternate"></link>
+    <summary type="html">Throwing worms and pulling weeds out the earth</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>EVERYTHING IN MY GARDEN IS DEAD!! 😭😭😭</title>
+    <updated>2025-08-26T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-08-26:/blog/garden2</id>
+    <link href="https://www.yoshixi.net/blog/garden2" rel="alternate"></link>
+    <summary type="html">EVERYTHING! ITS ALL DEAD ITS ALL ROTTEN!!!</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Great Gopher and Gemini Sites</title>
+    <updated>2025-03-30T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-03-30:/blog/gemini-sites</id>
+    <link href="https://www.yoshixi.net/blog/gemini-sites" rel="alternate"></link>
+    <summary type="html">Here is a collection of cool gemini sites, blogs, art pieces.</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Some absolutely horrible things you can say to your debug duckie</title>
+    <updated>2025-02-12T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-12:/blog/horribleducky</id>
+    <link href="https://www.yoshixi.net/blog/horribleducky" rel="alternate"></link>
+    <summary type="html">Yesterday, I found a rubber duckie while I was clearing some of my brother&#39;s stuff. here are some things I said that pissed it off</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>How to make potions at home for cheap</title>
+    <updated>2024-12-26T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-26:/blog/how-to-brew-potions</id>
+    <link href="https://www.yoshixi.net/blog/how-to-brew-potions" rel="alternate"></link>
+    <summary type="html">Share with all the wicked in your life</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>My Gateron Low Profile Keyboard Build Log</title>
+    <updated>2024-12-28T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2024-12-28:/blog/my-glp-build-log</id>
+    <link href="https://www.yoshixi.net/blog/my-glp-build-log" rel="alternate"></link>
+    <summary type="html">Here I spend ridicuous time and energy to build an ergo mechanical keyboard</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Formal Language Structure to Describe a Universal Theory of Everything</title>
+    <updated>2025-12-09T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-12-09:/blog/theory-of-everything</id>
+    <link href="https://www.yoshixi.net/blog/theory-of-everything" rel="alternate"></link>
+    <summary type="html">how graphs can describe things and how we can make a programming language based of CoC to describe everything in the world</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>The wonderful world of online universities</title>
+    <updated>2025-06-16T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-06-16:/blog/wonderful-online-universities</id>
+    <link href="https://www.yoshixi.net/blog/wonderful-online-universities" rel="alternate"></link>
+    <summary type="html">awesome stuff you can learn online</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DeerHacks 2025</title>
+    <updated>2025-02-16T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-16:/hackathons/deerhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/deerhacks2025" rel="alternate"></link>
+    <summary type="html">DeerHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>DS3 Datathon 2025</title>
+    <updated>2025-02-22T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-02-22:/hackathons/ds3datathon2025</id>
+    <link href="https://www.yoshixi.net/hackathons/ds3datathon2025" rel="alternate"></link>
+    <summary type="html">DS3 Datathon 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Hackthe6ix 2025</title>
+    <updated>2025-07-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-07-27:/hackathons/hackthe6ix2025</id>
+    <link href="https://www.yoshixi.net/hackathons/hackthe6ix2025" rel="alternate"></link>
+    <summary type="html">Hackthe6ix 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>SpurHacks 2025</title>
+    <updated>2025-06-23T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-06-23:/hackathons/spurhacks2025</id>
+    <link href="https://www.yoshixi.net/hackathons/spurhacks2025" rel="alternate"></link>
+    <summary type="html">SpurHacks 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Touhou Jam 6</title>
+    <updated>2025-10-27T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2025-10-27:/hackathons/touhoujam6</id>
+    <link href="https://www.yoshixi.net/hackathons/touhoujam6" rel="alternate"></link>
+    <summary type="html">Touhou Jam 6 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
+    </author>
+  </entry>
+  <entry>
+    <title>Winter Gamejam 2025</title>
+    <updated>2026-01-07T00:00:00Z</updated>
+    <id>tag:www.yoshixi.net,2026-01-07:/hackathons/winterjam2025</id>
+    <link href="https://www.yoshixi.net/hackathons/winterjam2025" rel="alternate"></link>
+    <summary type="html">Winter Gamejam 2025 Devlog</summary>
+    <author>
+      <name>yoshixi</name>
     </author>
   </entry>
 </feed>
